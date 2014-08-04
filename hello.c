@@ -10,3 +10,9 @@ char  char_add(char a, char b)
 {
 	return a+b;
 }
+
+
+int  add(int a, int b)
+{
+	return a+b;
+}

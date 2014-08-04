@@ -5,10 +5,6 @@ void main(void)
 }
 
 
-int add(int a, int b)
-{
-	return a+b;
-}
 
 char  char_add(char a, char b)
 {
